@@ -1,4 +1,6 @@
 from sys import stdin
+
+#Juan Esteban Acosta Lopez - Agosto 2021
                 
 def main():
     numeroElecciones = int( stdin.readline() )
